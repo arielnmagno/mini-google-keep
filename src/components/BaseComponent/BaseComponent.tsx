@@ -126,7 +126,7 @@ function BaseComponent(props: BaseComponentProps): JSX.Element {
 						}
 
 						{activePage !== "home" &&
-							<h2>
+							<h2 className="noteslabel">
 								{notesUnavailableInfo}
 							</h2>
 						}

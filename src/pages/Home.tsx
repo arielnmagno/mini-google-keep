@@ -6,7 +6,7 @@ import NotesIcon from "../icons/NotesIcon";
 
 function HomePage(): JSX.Element {
 	const notes = useSelector((state: RootState) => state.userNotes);
-	const pageLabel = <span className="logo"><b>Notes</b><b>Mini</b></span>;
+	const pageLabel = <span className="logo"><b>Notes</b><b>Mini</b><p>Inspired by Google Keep</p></span>;
 	const notesUnavailableInfo = "Anything to add?";
 	const notesUnavailableIcon = <NotesIcon/>;
 
