@@ -2,7 +2,7 @@
 
 Notes app <a href="https://github.com/zakariyaq313/notes-mini-vue">originally</a> made using Vue, re-made completely using React!
 
-<a href="https://zakariyaq313.github.io/notes-mini-react/"><img src="./src/assets/images/screen.png"></a>
+<a href="https://github.com/arielnmagno/"><img src="./src/assets/images/screen.png"></a>
 
 Made using -
 <br>
